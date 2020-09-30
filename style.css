@@ -56,20 +56,22 @@ header img {
     height: 300px;
     width: 400px;
 }
-
+.first,.second,.third{
+    width: 150px;
+}
 .first {
     height: 25px;
-    width: 150px;
+    
 }
 
 .second {
     height: 35px;
-    width: 190px;
+   
 }
 
 .third {
     height: 22px;
-    width: 190px;
+   
 }
 
 h1, h2, h3, h4 {
